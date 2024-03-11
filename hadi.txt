@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+
 hi i'm you and he is me!
 you are my arrival!
 bemir, bamir, bamir!
-=======
-hi i'm you and he is me!
-you are my arrival!
-bemir, bamir, bamir!
->>>>>>> 8dd712a215b6e3b593045d3f059039d099c6e5e2
+
